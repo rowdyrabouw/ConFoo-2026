@@ -13,6 +13,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 25
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|                                                                                                                                           
+| Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
@@ -23,4 +24,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 27
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
+| Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
